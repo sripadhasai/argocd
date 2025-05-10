@@ -5,7 +5,7 @@ metadata:
   labels:
     app: cycle
 spec:
-  replicas: 5
+  replicas: 8
   selector:
     matchLabels:
       app: cycle
